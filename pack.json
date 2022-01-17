@@ -1,6 +1,6 @@
 {
-	"name": "Name",
-	"description": "Description",
+	"name": "VsVoidRP",
+	"description": "A mod of a Minecraft Roleplay server",
 	"restart":false,
 	"color": [170, 0, 255]
 }
