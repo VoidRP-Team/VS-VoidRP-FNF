@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "Chaos",
+		"player1": "jaxsmall",
+		"player2": "evan",
+		"player3": null,
+		"events": [
+			[
+				714.285714285714,
+				[
+					[
+						"Camera Follow Pos",
+						"90",
+						"400"
+					]
+				]
+			],
+			[
+				5000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "spy",
+		"bpm": 189,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "chaos"
+	}
+}
