@@ -1,14 +1,13 @@
+![Logo]()
 # Vs VoidRP files
 ## Some info about the mod
 
-### credits
+### Contributors
 
-| Name    | Contrebution       |
-| ------- | ------------------ |
-| Minnie  | Artist             |
-| Xamu    | Charter and helped with song |
-| Nate    | small bit of code, playtester |
-| Mistik  | developer and project manager |
+- [@Mistik](https://github.com/MistikCodes)
+- [@NateTheLynx](https://github.com/NathanRoom)
+- [@Xamu]()
+- [@minnie]()
 
 ## **Version info**
 
