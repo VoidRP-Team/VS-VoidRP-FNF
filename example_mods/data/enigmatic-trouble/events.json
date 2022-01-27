@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 1.2,
+		"stage": "evan",
+		"player1": "smallbf",
+		"player2": "evan",
+		"player3": null,
+		"events": [
+			[
+				84210.5263157896,
+				[
+					[
+						"Change Character",
+						"1",
+						"spy"
+					]
+				]
+			],
+			[
+				97192.9824561405,
+				[
+					[
+						"Change Character",
+						"1",
+						"smallbf"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfgone",
+		"bpm": 171,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Enigmatic-Trouble"
+	}
+}

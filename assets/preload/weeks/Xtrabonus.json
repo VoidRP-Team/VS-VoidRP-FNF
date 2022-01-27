@@ -1,4 +1,16 @@
 {
+	"storyName": "bonus week not cannon",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Chaos",
@@ -10,31 +22,28 @@
 			]
 		],
 		[
-			"confronting-yourself",
+			"confronting yourself",
 			"Jax-imposter",
 			[
 				10,
 				10,
 				10
 			]
+		],
+		[
+			"enigmatic trouble",
+			"evan",
+			[
+				146,
+				113,
+				253
+			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "",
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "bonus week not cannon",
-	"weekName": "!BonusWeek",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
-	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": "!BonusWeek"
 }

@@ -1,27 +1,17 @@
-function onSongStart()
-    noteTweenX("NoteMove1", 4, 400, 0.1, cubeInOut)
-    noteTweenX("NoteMove2", 5, 510, 0.1, cubeInOut)
-    noteTweenX("NoteMove3", 6, 620, 0.1, cubeInOut)
-    noteTweenX("NoteMove4", 7, 730, 0.1, cubeInOut)
+local keepScroll = false
 
-    --oponent
-    noteTweenY("NoteMove5", 0, 1000, 1, cubeInOut)
-    noteTweenY("NoteMove6", 1, 1000, 1, cubeInOut)
-    noteTweenY("NoteMove7", 2, 1000, 1, cubeInOut)
-    noteTweenY("NoteMove8", 3, 1000, 1, cubeInOut)
+function onCreate()
+	if getPropertyFromClass('ClientPrefs', 'middleScroll') == true then
+		setPropertyFromClass('ClientPrefs', 'middleScroll', false);
+	elseif getPropertyFromClass('ClientPrefs', 'middleScroll') == false then
+		keepScroll = true;
+	end
 end
 
-function onStepHit()
-    if curStep == 128 then
-         noteTweenX("NoteMove1", 4, 800, 0.1, cubeInOut)
-         noteTweenX("NoteMove2", 5, 910, 0.1, cubeInOut)
-         noteTweenX("NoteMove3", 6, 1020, 0.1, cubeInOut)
-         noteTweenX("NoteMove4", 7, 1130, 0.1, cubeInOut)
-    end
-    if curStep == 130 then
-         noteTweenY("NoteMove5", 0, 45, 1, cubeInOut)
-         noteTweenY("NoteMove6", 1, 45, 1, cubeInOut)
-         noteTweenY("NoteMove7", 2, 45, 1, cubeInOut)
-         noteTweenY("NoteMove8", 3, 45, 1, cubeInOut)
-    end
+function onDestroy()
+	if keepScroll == false then
+		setPropertyFromClass('ClientPrefs', 'middleScroll', true);
+	elseif keepScroll == true then
+		keepScroll = false;
+	end
 end
