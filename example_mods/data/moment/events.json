@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "stage",
+		"player1": "bf",
+		"player2": "bf-pixel-opponent",
+		"player3": null,
+		"events": [
+			[
+				11228.0701754386,
+				[
+					[
+						"Change Scroll Speed",
+						"1.75",
+						"1"
+					]
+				]
+			],
+			[
+				56140.350877193,
+				[
+					[
+						"Change Scroll Speed",
+						"1   ",
+						"1"
+					]
+				]
+			],
+			[
+				78596.4912280702,
+				[
+					[
+						"Change Scroll Speed",
+						"1.75",
+						"1"
+					]
+				]
+			],
+			[
+				100263.157894737,
+				[
+					[
+						"Change Scroll Speed",
+						"0.4",
+						"1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 171,
+		"arrowSkin": null,
+		"needsVoices": false,
+		"song": "moment"
+	}
+}
