@@ -1,6 +1,8 @@
 ![Logo](https://github.com/MistikCodes/Vs-VoidRP/blob/main/logo.png?raw=true)
 # Vs VoidRP files
+Latest build:
 [![Version](https://img.shields.io/github/v/release/MistikCodes/Vs-VoidRP?include_prereleases&style=for-the-badge)](https://github.com/MistikCodes/Vs-VoidRP/releases)
+Latest **STABLE** build:
 [![VersionRelease](https://img.shields.io/github/v/release/MistikCodes/Vs-VoidRP?style=for-the-badge)](https://github.com/MistikCodes/Vs-VoidRP/releases)
 
 ![Test](https://img.shields.io/badge/Linux-Might%20work-yellow)
