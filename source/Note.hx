@@ -103,6 +103,19 @@ class Note extends FlxSprite
 					noAnimation = true;
 				case 'GF Sing':
 					gfNote = true;
+				case 'Rizzo Note':
+					ignoreNote = mustPress;
+					reloadNote('RIZZO');
+					noteSplashTexture = 'RIZZOnoteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					if(isSustainNote) {
+					missHealth = 0.1;
+					} else {
+					missHealth = 5.0;
+					}
+					hitCausesMiss = true;
 			}
 			noteType = value;
 		}
