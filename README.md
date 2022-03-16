@@ -15,7 +15,7 @@ Latest **STABLE** build:
 - [@Mistik](https://github.com/MistikCodes)
 - [@NateTheLynx](https://github.com/NathanRoom)
 - [@Xamu]()
-- [@minnie]()
+- [@mike](https://www.youtube.com/channel/UC-TytAQbhsrwLqfmOy0R-Eg)
 
 ## **Version info**
 
