@@ -1,11 +1,11 @@
 ![Logo](https://github.com/MistikCodes/Vs-VoidRP/blob/main/logo.png?raw=true)
 # Vs VoidRP files
 Latest build:
-[![Version](https://img.shields.io/github/v/release/MistikCodes/Vs-VoidRP?include_prereleases&style=for-the-badge)](https://github.com/MistikCodes/Vs-VoidRP/releases)
+[![Version](https://img.shields.io/github/v/release/VoidRP-Team/VS-VoidRP-FNF?include_prereleases&style=for-the-badge)](https://github.com/VoidRP-Team/VS-VoidRP-FNF)
 Latest **STABLE** build:
-[![VersionRelease](https://img.shields.io/github/v/release/MistikCodes/Vs-VoidRP?style=for-the-badge)](https://github.com/MistikCodes/Vs-VoidRP/releases)
+[![VersionRelease](https://img.shields.io/github/v/release/VoidRP-Team/VS-VoidRP-FNF?style=for-the-badge)](https://github.com/VoidRP-Team/VS-VoidRP-FNF/releases)
 
-![Test](https://img.shields.io/badge/Linux-Might%20work-yellow)
+![Linux](https://img.shields.io/badge/Linux-Might%20work-yellow)
 ![Mac](https://img.shields.io/badge/Mac-Might%20work-yellow)
 ![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen)
 ## Some info about the mod
