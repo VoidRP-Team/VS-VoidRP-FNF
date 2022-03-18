@@ -1,4 +1,4 @@
-![Logo](https://github.com/MistikCodes/Vs-VoidRP/blob/main/logo.png?raw=true)
+![Logo](https://github.com/VoidRP-Team/VS-VoidRP-FNF/blob/main/logo.png)
 # Vs VoidRP files
 Latest build:
 [![Version](https://img.shields.io/github/v/release/VoidRP-Team/VS-VoidRP-FNF?include_prereleases&style=for-the-badge)](https://github.com/VoidRP-Team/VS-VoidRP-FNF)
