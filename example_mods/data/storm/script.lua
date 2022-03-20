@@ -20,5 +20,10 @@ function onDestroy()
 	elseif keepScroll == true then
 		keepScroll = false;
 	end
+	if keepScrollDirc == false then
+		setPropertyFromClass('ClientPrefs', 'downScroll') == true
+	elseif keepScrollDirc == true then
+	keepScrollDirc = false;
+	end
 end
 

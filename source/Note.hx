@@ -128,6 +128,19 @@ class Note extends FlxSprite
 					missHealth = 5.0;
 					}
 					hitCausesMiss = true;
+				case 'Pirate Note':
+					ignoreNote = mustPress;
+					reloadNote('PIRATE');
+						noteSplashTexture = 'PIRATEnoteSplashes';
+					colorSwap.hue = 0;
+					colorSwap.saturation = 0;
+					colorSwap.brightness = 0;
+					if(isSustainNote) {
+					missHealth = 0.1;
+					} else {
+					missHealth = 0.3;
+					}
+					hitCausesMiss = false;
 			}
 			noteType = value;
 		}

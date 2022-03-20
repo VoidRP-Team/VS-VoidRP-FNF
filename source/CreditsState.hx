@@ -82,11 +82,11 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['VoidRP Team'],
-			['Mistik',				'discord',		'Main developer, coder and project leader',			'https://twitter.com/DmistikG', 'FFFFFF'],
-			['Nate',				'discord',		'Co project leader and charter',										'https://github.com/NathanRoom', '03FFDD'],
+			['Mistik',				'mistik',		'Main developer, coder and project leader',			'https://twitter.com/DmistikG', 'FFFFFF'],
+			['Nate',				'nate',		'Co project leader and charter',										'https://github.com/NathanRoom', '03FFDD'],
 			['MikeyTheCat', 		'mike',			'Lead artist',							'https://github.com/MikeyTheCat', 'FFFFFF'],
-			['Tool', 				'discord',		'Helped with the story',				'https://google.com', 'C92E93'],
-			['NeeVee TV', 			'discord',		'Icon Artist',							'https://www.youtube.com/channel/UC7VVOI0EOqrd_PaaX7oEe2g', '9934BA'],
+			['Tool', 				'tool',		'Helped with the story',				'https://google.com', 'C92E93'],
+			['NeeVee TV', 			'neevee',		'Icon Artist',							'https://www.youtube.com/channel/UC7VVOI0EOqrd_PaaX7oEe2g', '9934BA'],
 			['Xamu', 				'jinxx',		'Lead charter',		'https://www.youtube.com/channel/UCA12_N7dGq648OwmCMCGMsg', 'FFFFFF'],
 			['Playtesters'],
 			[''],
