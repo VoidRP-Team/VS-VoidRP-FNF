@@ -1,0 +1,31 @@
+{
+	"storyName": "Chaos is around the corner",
+	"difficulties": "expert",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "weekE",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"Rizzo",
+		"Renam-gf",
+		"jax"
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Nhelv",
+			"Rizzo",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "Rizzo and Renam"
+}

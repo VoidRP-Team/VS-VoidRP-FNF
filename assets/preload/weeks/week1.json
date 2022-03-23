@@ -1,0 +1,48 @@
+{
+	"storyName": "The way it should have been",
+	"hideFreeplay": false,
+	"weekBackground": "german-flag",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"wilhelm",
+		"tool",
+		"mike"
+	],
+	"songs": [
+		[
+			"tba",
+			"",
+			[
+				255,
+				120,
+				253
+			]
+		],
+		[
+			"tba",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"tba",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Germany"
+}
