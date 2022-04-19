@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MISTIKNOTE_assets.png"><SubTexture name="0  blue0000" x="0" y="0" width="138" height="138" frameX="-6" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="green0000" x="138" y="0" width="138" height="138" frameX="-6" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="red0000" x="0" y="138" width="138" height="138" frameX="-6" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="purple0000" x="138" y="138" width="138" height="138" frameX="-6" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="green hold piece0000" x="276" y="85" width="122" height="2" frameX="-14" frameY="0" frameWidth="140" frameHeight="2" />
+<SubTexture name="green hold piece0001" x="276" y="85" width="122" height="2" frameX="-14" frameY="0" frameWidth="140" frameHeight="2" />
+<SubTexture name="purple hold piece0000" x="276" y="85" width="122" height="2" frameX="-14" frameY="0" frameWidth="140" frameHeight="2" />
+<SubTexture name="red hold piece0000" x="276" y="85" width="122" height="2" frameX="-14" frameY="0" frameWidth="140" frameHeight="2" />
+<SubTexture name="pruple end hold0000" x="276" y="0" width="122" height="85" frameX="-14" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="red hold end0000" x="276" y="0" width="122" height="85" frameX="-14" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="green hold end0000" x="276" y="0" width="122" height="85" frameX="-14" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="blue hold end0000" x="276" y="0" width="122" height="85" frameX="-14" frameY="0" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

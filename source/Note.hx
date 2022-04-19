@@ -128,6 +128,11 @@ class Note extends FlxSprite
 					missHealth = 5.0;
 					}
 					hitCausesMiss = true;
+					
+					case 'Mistik':
+						ignoreNote = mustPress;
+						reloadNote('MISTIK');
+						noteSplashTexture = 'RIZZOnoteSplashes';
 				case 'Pirate Note':
 					ignoreNote = mustPress;
 					reloadNote('PIRATE');

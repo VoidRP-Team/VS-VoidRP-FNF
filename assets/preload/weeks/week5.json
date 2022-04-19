@@ -1,0 +1,40 @@
+{
+	"storyName": "bonus week not cannon",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Chaos",
+			"Evan",
+			[
+				0,
+				255,
+				73
+			]
+		],
+		[
+			"enigmatic trouble",
+			"Jax-imposter",
+			[
+				10,
+				10,
+				10
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "BonusWeek"
+}

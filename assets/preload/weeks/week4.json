@@ -1,19 +1,23 @@
 {
-	"storyName": "bonus week not cannon",
+	"storyName": "IS THIS even REAl!",
 	"difficulties": "",
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"weekBefore": "tutorial",
+	"weekBackground": "confrontation",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"mistik",
+		"mike",
+		"tool"
+	],
 	"songs": [
 		[
-			"Chaos",
+			"Confrontation",
 			"Evan",
 			[
 				0,
@@ -23,16 +27,7 @@
 		],
 		[
 			"confronting yourself",
-			"Jax-imposter",
-			[
-				10,
-				10,
-				10
-			]
-		],
-		[
-			"enigmatic trouble",
-			"evan",
+			"dad",
 			[
 				146,
 				113,
@@ -40,10 +35,6 @@
 			]
 		]
 	],
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
+	"hideStoryMode": false,
 	"weekName": "BonusWeek"
 }

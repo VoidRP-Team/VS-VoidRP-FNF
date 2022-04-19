@@ -1,0 +1,49 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "Confrontation",
+		"player1": "jaxsmall",
+		"player2": "jax-imposter",
+		"player3": null,
+		"events": [
+			[
+				83250,
+				[
+					[
+						"Play Animation",
+						"changebg1",
+						""
+					]
+				]
+			],
+			[
+				121625,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				137625,
+				[
+					[
+						"Play Animation",
+						"changebg2",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfgone",
+		"bpm": 120,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "confrontation"
+	}
+}

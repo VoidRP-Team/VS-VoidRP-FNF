@@ -64,7 +64,8 @@ class ChartingState extends MusicBeatState
 		'GF Sing',
 		'No Animation',
 		'Rizzo Note',
-		'Pirate Note'
+		'Pirate Note',
+		'Mistik'
 	];
 	private var noteTypeIntMap:Map<Int, String> = new Map<Int, String>();
 	private var noteTypeMap:Map<String, Null<Int>> = new Map<String, Null<Int>>();
