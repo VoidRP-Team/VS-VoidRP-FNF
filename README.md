@@ -8,6 +8,7 @@ Latest **STABLE** build:
 ![Linux](https://img.shields.io/badge/Linux-Might%20work-yellow)
 ![Mac](https://img.shields.io/badge/Mac-Might%20work-yellow)
 ![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen)
+![Discord](https://img.shields.io/discord/930396997255581737)
 ## Some info about the mod
 
 ### Contributors
