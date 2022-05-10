@@ -15,8 +15,10 @@ Latest **STABLE** build:
 
 - [@Mistik](https://github.com/MistikCodes)
 - [@NateTheLynx](https://github.com/NathanRoom)
-- [@Xamu]()
+- [@NeeVee]
 - [@mike](https://www.youtube.com/channel/UC-TytAQbhsrwLqfmOy0R-Eg)
+- [@tool]
+- [@background artist]
 
 ## **Version info**
 
@@ -29,7 +31,7 @@ This file is used to tell what the version numbers mean and has some info about 
 | > 1.0   | updates past release |
 |   1.0   | release            |
 | < 0.9   | alpha              |
-| < 0.5   | playtesting builds |
+| < 0.5   | beta builds        |
 
 ### Reporting bugs or misshaps
 
