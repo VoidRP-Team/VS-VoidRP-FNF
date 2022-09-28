@@ -1,27 +1,57 @@
 {
 	"song": {
-		"speed": 3.6,
+		"speed": 2.5,
 		"stage": "Confrontation",
 		"player1": "jaxsmall",
-		"player2": "jax-imposter",
+		"player2": "jaxsmall",
 		"player3": null,
 		"events": [
+			[
+				19006.25,
+				[
+					[
+						"Play Animation",
+						"changebg2",
+						""
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
+			[
+				44875,
+				[
+					[
+						"Play Animation",
+						"changebg2",
+						""
+					]
+				]
+			],
+			[
+				69625,
+				[
+					[
+						"Play Animation",
+						"changebgnormal",
+						""
+					]
+				]
+			],
 			[
 				83250,
 				[
 					[
 						"Play Animation",
 						"changebg1",
-						""
-					]
-				]
-			],
-			[
-				121625,
-				[
-					[
-						"Play Animation",
-						"changebgnormal",
 						""
 					]
 				]
@@ -42,7 +72,7 @@
 		"validScore": false,
 		"gfVersion": "gfgone",
 		"bpm": 120,
-		"arrowSkin": "NOTE_assets",
+		"arrowSkin": "NOTEMISTIK_assets",
 		"needsVoices": true,
 		"song": "confrontation"
 	}
