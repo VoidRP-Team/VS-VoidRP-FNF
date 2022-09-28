@@ -8,14 +8,17 @@ Latest **STABLE** build:
 ![Linux](https://img.shields.io/badge/Linux-Might%20work-yellow)
 ![Mac](https://img.shields.io/badge/Mac-Might%20work-yellow)
 ![Windows](https://img.shields.io/badge/Windows-Supported-brightgreen)
+![Discord](https://img.shields.io/discord/930396997255581737)
 ## Some info about the mod
 
 ### Contributors
 
 - [@Mistik](https://github.com/MistikCodes)
 - [@NateTheLynx](https://github.com/NathanRoom)
-- [@Xamu]()
+- [@NeeVee]
 - [@mike](https://www.youtube.com/channel/UC-TytAQbhsrwLqfmOy0R-Eg)
+- [@tool]
+- [@background artist]
 
 ## **Version info**
 
@@ -28,7 +31,7 @@ This file is used to tell what the version numbers mean and has some info about 
 | > 1.0   | updates past release |
 |   1.0   | release            |
 | < 0.9   | alpha              |
-| < 0.5   | playtesting builds |
+| < 0.5   | beta builds        |
 
 ### Reporting bugs or misshaps
 
