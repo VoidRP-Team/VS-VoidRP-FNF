@@ -3,29 +3,29 @@
 	"difficulties": "expert",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
-	"weekBefore": "weekE",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"weekBefore": "weekE",
 	"startUnlocked": false,
-	"weekCharacters": [
-		"Rizzo",
-		"Renam-gf",
-		"jax"
-	],
-	"hideStoryMode": false,
 	"songs": [
 		[
 			"Nhelv",
-			"Rizzo",
+			"rizzo",
 			[
 				255,
 				0,
 				0
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Rizzo",
+		"Renam-gf",
+		"jax"
 	],
 	"weekName": "Rizzo and Renam"
 }

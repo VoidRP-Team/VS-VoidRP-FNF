@@ -3,22 +3,18 @@
 	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "confrontation",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"weekCharacters": [
-		"mistik",
-		"mike",
-		"tool"
-	],
+	"hideStoryMode": false,
 	"songs": [
 		[
 			"Confrontation",
-			"Evan",
+			"mistik",
 			[
 				0,
 				255,
@@ -27,7 +23,7 @@
 		],
 		[
 			"confronting yourself",
-			"dad",
+			"mike",
 			[
 				146,
 				113,
@@ -35,6 +31,10 @@
 			]
 		]
 	],
-	"hideStoryMode": false,
+	"weekCharacters": [
+		"mistik",
+		"mike",
+		"tool"
+	],
 	"weekName": "BonusWeek"
 }

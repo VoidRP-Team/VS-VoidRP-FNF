@@ -2,23 +2,17 @@
 	"storyName": "Evan and sam",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
-	"hideStoryMode": false,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"songs": [
 		[
 			"Love birds",
-			"",
+			"sam",
 			[
 				146,
 				113,
@@ -27,7 +21,7 @@
 		],
 		[
 			"divorce",
-			"",
+			"evan-sam",
 			[
 				146,
 				113,
@@ -43,6 +37,12 @@
 				253
 			]
 		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
 	],
 	"weekName": "Evan week"
 }
